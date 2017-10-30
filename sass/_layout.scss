@@ -29,7 +29,7 @@
   // For side-nav and legal
   display: flex;
   flex-direction: column;
-  align-content: space-around;
+  justify-content: space-between;
 }
 
 .hotel-view {
@@ -37,4 +37,5 @@
   flex: 1;
   background-color: #fff;
   background-color: orangered;
+  height: 80rem;
 }
